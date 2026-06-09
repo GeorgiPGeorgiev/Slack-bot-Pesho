@@ -17,4 +17,4 @@ Pesho bot can do:
 
 Below are how all the commands should look when you call them
 <img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/1d659453-2b06-4526-b393-45c649e37b8f" />
-I hope the bot works fine.
+This projects uses Node.js and Nest. Thsi my first time writing a README file and got inspiration from @robopugo(https://stardance.hackclub.com/@robopugo)
